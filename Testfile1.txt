@@ -1,2 +1,2 @@
-Hi This my first project in git hub 
+Hi This is my first project in git hub 
 I am modifying my file as per the customare requirements.
